@@ -1,5 +1,4 @@
 # atividade-4-09
-# Nome do Projeto  
 
 ## Objetivo  
 Descrever brevemente o que o projeto faz e por que ele é útil.  
